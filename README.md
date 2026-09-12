@@ -21,8 +21,8 @@ Cada laboratório documenta os serviços utilizados, as decisões de configuraç
 .
 ├── labs/                        # um diretório por laboratório, numerado sequencialmente
 │   └── NN-nome-do-laboratorio/
-│       ├── README.md            # documentação técnica do laboratório
 │       └── diagrams/            # diagrama (arquitetura.png)
+│       ├── README.md            # documentação técnica do laboratório
 ```
 
 ## Sobre
