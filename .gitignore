@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+templates/
+scripts/
+manifest.json
+diagram.py
+requirements.txt
